@@ -1,0 +1,1 @@
+print("aqui corre el acelerometro")
